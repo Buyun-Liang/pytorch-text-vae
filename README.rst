@@ -6,7 +6,7 @@ This code doesn't implement iterative conditional modes for sampling, or several
 
 To get a saved model, and preprocessed data, download the file (~1.1GB) at this link
 
-``https://drive.google.com/file/d/0Bzz1g90lrPKNZTVtSHFDM0t0cG8/view?usp=sharing``
+``https://drive.google.com/file/d/0Bzz1g90lrPKNZTVtSHFDM0t0cG8/view?usp=sharing&resourcekey=0-Wkt32ho71aDtAgiFm_uGgg``
 
 Next, run this command to unzip the pretrained models and preprocessed data
 
